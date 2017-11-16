@@ -22,7 +22,7 @@ Trace_tool_calls: y
 
 <BEGINtool_steps>
 
-HCopy: y
+HCopy: n
 HList: n
 HQuant: n
 HLEd: n
