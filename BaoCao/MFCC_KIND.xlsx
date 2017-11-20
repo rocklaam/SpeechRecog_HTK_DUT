@@ -1,0 +1,9 @@
+Th? Nghi?m V?i:				
+- nStates= 36				
+- nMixes= 1				
+				
+Open Test				
+MFCC_KIND	%Acc	%Corr	%Acc	%Corr
+MFCC_E	96,81	96,81	-3,19	-3,19
+MFCC_E_D	98,69	98,69	-1,31	-1,31
+MFCC_E_D_A	99,28	99,28	-0,72	-0,72

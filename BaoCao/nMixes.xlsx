@@ -1,0 +1,10 @@
+Th? Nghi?m V?i										
+-nStates = 36										
+-MFCC_KIND= MFCC_E_D_A										
+OpenTest										
+nMixes	%Acc	%Corr	%Acc	%Corr		nMixes	%Acc	%Corr	%Acc	%Corr
+1	99,28	99,28	-0,72	-0,72		1	100	100	0	0
+1 1 1	99,28	99,28	-0,72	-0,72		1 1 1	100	100	0	0
+2	err	err	#VALUE!	#VALUE!		2	100	100	0	0
+4	err	err	#VALUE!	#VALUE!		4	err	err	#VALUE!	#VALUE!
+4 4 4	err	err	#VALUE!	#VALUE!		4 4 4	err	err	#VALUE!	#VALUE!
